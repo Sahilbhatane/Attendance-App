@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Nov 14 12:18:38 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Janobe\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
